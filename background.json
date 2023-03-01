@@ -1,6 +1,34 @@
 [
   {
-    "nama": "Backup",
-    "url": "https://raw.githubusercontent.com/FemassGans/imageallml/main/20230119_183047.jpg"  
+    map = new HashMap<>();
+map.put("nama", " Backup");
+map.put("url", "https://raw.githubusercontent.com/FemassGans/imageallml/main/20230119_183047.jpg");
+map.put("excute", "https://github.com/FemassGans/backgroundml/blob/main/Backup%20Background%20Mlbb.7z?raw=true");
+map1.add(map);
+map = new HashMap<>();
+map.put("nama", "Versi 1");
+map.put("url", "https://raw.githubusercontent.com/Mrkimaq1/ALL-MLBB/main/20230212_162821.jpg");
+map.put("excute", "https://github.com/Mrkimaq1/ALL-MLBB/blob/main/(No%20PW)%20V058%20B%20LB%20Tiktok.zip?raw=true");
+map1.add(map);
+map = new HashMap<>();
+map.put("nama", "Versi 2");
+map.put("url", "https://raw.githubusercontent.com/Mrkimaq1/ALL-MLBB/main/20230212_163525.jpg");
+map.put("excute", "https://github.com/Mrkimaq1/ALL-MLBB/blob/main/(No%20PW)%20V057%20B%20LB%20Tiktok.zip?raw=true");
+map1.add(map);
+map = new HashMap<>();
+map.put("nama", "Versi 3");
+map.put("url", "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151");
+map.put("excute", "");
+map1.add(map);
+map = new HashMap<>();
+map.put("nama", "Versi 4");
+map.put("url", "");
+map.put("excute", "");
+map1.add(map);
+map = new HashMap<>();
+map.put("nama", "Versi 5");
+map.put("url", "");
+map.put("excute", "");
+map1.add(map);  
     }
 ]
