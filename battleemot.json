@@ -1,82 +1,478 @@
 [
   {
     "NAMA": "Aamon",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Aamon.png"
+    "EMOT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_EMOT/Aamon.png","excute":"https://github.com/Mrkimaq1/ALL-MLBB/blob/main/Yin%20Default%20To%20Jujutsu%20Kaisen.zip?raw=true"
   },
   {
-    "NAMA": "Bannedea",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Alucard.png"
+    "NAMA": "Akai",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20220525164504"
+  },
+  {
+    "NAMA": "Aldous",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20220525165611"
+  },
+  {
+    "NAMA": "Alice",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20220525164338"
+  },
+  {
+    "NAMA": "Alpha",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20220525164911"
+  },
+  {
+    "NAMA": "Alucard",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426"
+  },
+  {
+    "NAMA": "Angela",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20220525165419"
+  },
+  {
+    "NAMA": "Argus",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226"
+  },
+  {
+    "NAMA": "Arlott",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20221202134647"
+  },
+  {
+    "NAMA": "Atlas",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026"
+  },
+  {
+    "NAMA": "Aulus",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829"
+  },
+  {
+    "NAMA": "Aurora",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Aurora.png/revision/latest/scale-to-width-down/177?cb=20211231095916"
+  },
+  {
+    "NAMA": "Badang",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Badang.png/revision/latest/scale-to-width-down/177?cb=20220303075706"
+  },
+  {
+    "NAMA": "Balmond",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164249"
+  },
+  {
+    "NAMA": "Bane",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530"
+  },
+  {
+    "NAMA": "Barats",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Barats.png/revision/latest/scale-to-width-down/177?cb=2022030307"
+  },
+  {
+    "NAMA": "Baxia",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648"
+  },
+  {
+    "NAMA": "Betrix",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20220525170412"
+  },
+  {
+    "NAMA": "Belerick",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729"
+  },
+  {
+    "NAMA": "Bendetta",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Benedetta.png/revision/latest?cb=20220303075906"
+  },
+  {
+    "NAMA": "Bruno",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20220525164544"
+  },
+  {
+    "NAMA": "Brody",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049"
+  },
+  {
+    "NAMA": "Carmilla",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356"
+  },
+  {
+    "NAMA": "Cecilion",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232"
+  },
+  {
+    "NAMA": "Chang'e",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20220525165530"
+  },
+  {
+    "NAMA": "Chou",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426"
+  },
+  {
+    "NAMA": "Claude",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20220525165627"
+  },
+  {
+    "NAMA": "Clint",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553"
+  },
+  {
+    "NAMA": "Cylops",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Cyclops.png/revision/latest?cb=20180820103038"
+  },
+  {
+    "NAMA": "Diggie",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20220525165254"
+  },
+  {
+    "NAMA": "Dyrroth",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20220525170022"
+  },
+  {
+    "NAMA": "Esmeralda",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20220525165930"
+  },
+  {
+    "NAMA": "Estes",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20220525165033"
+  },
+  {
+    "NAMA": "Eudora",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20220525164621"
+  },
+  {
+    "NAMA": "Edith",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947"
   },
   {
     "NAMA": "Fanny",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Fanny.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654"
   },
   {
-    "NAMA": "Benedetta",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Benedetta.png"
+    "NAMA": "Faramis",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20220714134614"
+  },
+  {
+    "NAMA": "Floryn",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535"
+  },
+  {
+    "NAMA": "Franco",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20220525164519"
+  },
+  {
+    "NAMA": "Freya",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Freya.png/revision/latest?cb=20200606110259"
+  },
+  {
+    "NAMA": "Fredrinn",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119"
+  },
+  {
+    "NAMA": "Gatotkaca",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Gatotkaca.png/revision/latest?cb=20190116114959"
+  },
+  {
+    "NAMA": "Gloo",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20220920085708"
+  },
+  {
+    "NAMA": "Gord",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812"
+  },
+  {
+    "NAMA": "Granger",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20220525165830"
+  },
+  {
+    "NAMA": "Grock",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png/revision/latest?cb=20220525165217"
+  },
+  {
+    "NAMA": "Guinevere",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20220525165850"
   },
   {
     "NAMA": "Gusion",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Gusion.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407"
+  },
+  {
+    "NAMA": "Hanabi",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835"
   },
   {
     "NAMA": "Hanzo",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Hanzo.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20220525165722"
+  },
+  {
+    "NAMA": "Harith",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Harith.png/revision/latest?cb=20200824110705"
   },
   {
     "NAMA": "Harley",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Harley.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harley.png/revision/latest?cb=20210919012409"
   },
   {
     "NAMA": "Hayabusa",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Hayabusa.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632"
   },
   {
-    "NAMA": "Helcurt",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Helcurt.png"
+    "NAMA": "Helcrut",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Helcurt.png/revision/latest?cb=20180820102527"
+  },
+  {
+    "NAMA": "Hilda",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hilda.png/revision/latest?cb=20211121065620"
+  },
+  {
+    "NAMA": "Hylos",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20220525165306"
+  },
+  {
+    "NAMA": "Irithel",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Irithel.png/revision/latest?cb=20190615170935"
+  },
+  {
+    "NAMA": "Jawhead",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Jawhead.png/revision/latest?cb=20180820102111"
+  },
+  {
+    "NAMA": "Johnson",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Johnson.png/revision/latest?cb=20190307090515"
+  },
+  {
+    "NAMA": "Julian",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638"
+  },
+  {
+    "NAMA": "Joy",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20221021123838"
   },
   {
     "NAMA": "Kadita",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Kadita.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Kadita.png/revision/latest?cb=20181018090458"
+  },
+  {
+    "NAMA": "Kagura",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20220525164837"
+  },
+  {
+    "NAMA": "Kaja",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest?cb=20220525165548"
+  },
+  {
+    "NAMA": "Karie",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Karrie.png/revision/latest?cb=20190615171117"
   },
   {
     "NAMA": "Karina",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Karina.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20220525164445"
+  },
+  {
+    "NAMA": "Khaleed",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Khaleed.png/revision/latest?cb=20200810043756"
+  },
+  {
+    "NAMA": "Khufra",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Khufra.png/revision/latest?cb=20190106130602"
+  },
+  {
+    "NAMA": "Kimmy",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Kimmy.png/revision/latest?cb=20190615171335"
   },
   {
     "NAMA": "Lancelot",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Lancelot.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20220525165242"
+  },
+  {
+    "NAMA": "Lapu-Lapu",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107"
+  },
+  {
+    "NAMA": "Layla",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20220525164711"
+  },
+  {
+    "NAMA": "Leomord",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702"
   },
   {
     "NAMA": "Lesley",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Lesley.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20220824141739"
   },
   {
     "NAMA": "Ling",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Ling.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20220525171417"
   },
   {
-    "NAMA": "Mathilda",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Mathilda.png"
+    "NAMA": "Lolita",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20220525164738"
+  },
+  {
+    "NAMA": "Lunox",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705"
+  },
+  {
+    "NAMA": "Luoyi",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20220525170241"
+  },
+  {
+    "NAMA": "Lilya",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038"
+  },
+  {
+    "NAMA": "Martis",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Martis.png/revision/latest?cb=20180820102126"
+  },
+  {
+    "NAMA": "Masha",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858"
+  },
+  {
+    "NAMA": "Melisa",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741"
+  },
+  {
+    "NAMA": "Minotaur",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20220525164730"
+  },
+  {
+    "NAMA": "Minsitthar",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Minsitthar.png/revision/latest?cb=20181124121459"
+  },
+  {
+    "NAMA": "Miya",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20220526190932"
+  },
+  {
+    "NAMA": "Moskov",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Moskov.png/revision/latest?cb=20190615171609"
+  },
+  {
+    "NAMA": "Mathhilda",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20220525171504"
+  },
+  {
+    "NAMA": "Nana",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20220525164353"
   },
   {
     "NAMA": "Natalia",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Natalia.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20220525164822"
+  },
+  {
+    "NAMA": "Natan",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20220525171604"
+  },
+  {
+    "NAMA": "Odete",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233"
+  },
+  {
+    "NAMA": "Pakuito",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349"
+  },
+  {
+    "NAMA": "Parsha",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Pharsa.png/revision/latest?cb=20180820103235"
+  },
+  {
+    "NAMA": "Phoveus",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest?cb=20220525170425"
+  },
+  {
+    "NAMA": "Popol & Kupa",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20220525170226"
+  },
+  {
+    "NAMA": "Rafaela",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605"
+  },
+  {
+    "NAMA": "Roger",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125"
+  },
+  {
+    "NAMA": "Ruby",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20220525164924"
   },
   {
     "NAMA": "Saber",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Saber.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20220525164318"
   },
   {
     "NAMA": "Selena",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Selena.png"
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20220525165556"
   },
   {
-    "NAMA": "Yi_Sun-shin",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Yi_Sun-shin.png"
+    "NAMA": "Silvana",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133"
+  },
+  {
+    "NAMA": "Sun",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Sun.png/revision/latest?cb=20211231095930"
+  },
+  {
+    "NAMA": "Terizla",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940"
+  },
+  {
+    "NAMA": "Thamus",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744"
+  },
+  {
+    "NAMA": "Tigreal",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20220525164412"
+  },
+  {
+    "NAMA": "Uranus",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Uranus.png/revision/latest?cb=20211231095908"
+  },
+  {
+    "NAMA": "Vale",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Vale.png/revision/latest?cb=20220220110451"
+  },
+  {
+    "NAMA": "Valentina",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20220525171648"
+  },
+  {
+    "NAMA": "Valir",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valir.png/revision/latest?cb=20200402105837"
+  },
+  {
+    "NAMA": "Vexana",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20220714134445"
+  },
+  {
+    "NAMA": "Wanwan",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214"
+  },
+  {
+    "NAMA": "Xavier",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250"
+  },
+  {
+    "NAMA": "X Brock",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20220525165948"
+  },
+  {
+    "NAMA": "YiShunShin",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302"
+  },
+  {
+    "NAMA": "Yin",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20220525170549"
+  },
+  {
+    "NAMA": "Yu Zhong",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20220525170233"
+  },
+  {
+    "NAMA": "Yve",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20220920092448"
+  },
+  {
+    "NAMA": "Zhask",
+    "EMOT": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20220525165318"
   },
   {
     "NAMA": "Zilong",
-    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Zilong.png"
+    "EMOT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_EMOT/Zilong.png"
   }
 ]
