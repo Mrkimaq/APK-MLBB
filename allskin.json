@@ -1,39 +1,49 @@
 {
   "heroes": [
     {
-      "NAMA": "Aamon 1",
-      "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Duke_of_Shards.jpg/revision/latest/scale-to-width-down/250?cb\u003d20220219033921",
-      "URL": "https://github.com/Afornax/Assassin/blob/main/AamonBasic.zip?raw\u003dtrue",
-      "role": "Offlaner",
-      "difficulty": "Intermediate"
+      "name Hero": "Alucard",
+      "skins": [
+        {
+          "NAMA": "Empire Agent",
+          "URL": "https://github.com/Jeic06/backups/blob/main/Aamon%20backup.zip?raw\u003dtrue",
+          "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Duke_of_Shards.jpg/revision/latest/scale-to-width-down/250?cb\u003d20220219033921"
+        },
+        {
+          "name": "Fiery Inferno",
+          "github_url": "https://github.com/user/repo",
+          "image_url": "https://example.com/alucard_fiery_inferno.png"
+        }
+      ]
     },
     {
-      "NAMA": "Alice",
-      "IMG": "https://example.com/images/alice.png",
-      "URL": "Mage",
-      "role": "Midlaner",
-      "difficulty": "Advanced"
+      "name": "Alice",
+      "skins": [
+        {
+          "name": "Wizardry Teacher",
+          "github_url": "https://github.com/user/repo",
+          "image_url": "https://example.com/alice_wizardry_teacher.png"
+        },
+        {
+          "name": "Divine Owl",
+          "github_url": "https://github.com/user/repo",
+          "image_url": "https://example.com/alice_divine_owl.png"
+        }
+      ]
     },
     {
-      "NAMA": "Alpha",
-      "IMG": "https://example.com/images/alpha.png",
-      "URL": "Fighter",
-      "role": "Jungler",
-      "difficulty": "Advanced"
-    },
-    {
-      "NAMA": "Atlas",
-      "IMG": "https://example.com/images/atlas.png",
-      "URL": "Tank",
-      "role": "Support",
-      "difficulty": "Advanced"
-    },
-    {
-      "NAMA": "Aurora",
-      "IMG": "https://example.com/images/aurora.png",
-      "URL": "Mage",
-      "role": "Midlaner",
-      "difficulty": "Advanced"
+      "name": "Aldous",
+      "skins": [
+        {
+          "name": "Death",
+          "github_url": "https://github.com/user/repo",
+          "image_url": "https://example.com/aldous_death.png"
+        },
+        {
+          "name": "Heavenly Fist",
+          "github_url": "https://github.com/user/repo",
+          "image_url": "https://example.com/aldous_heavenly_fist.png"
+        }
+      ]
     }
   ]
 }
