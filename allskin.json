@@ -1,26 +1,12 @@
 [
-    {
-      "NAMA": "Abyssal Shaman",
-      "skin_url": "https://www.mobilelegends.com/en/cdn/hero/skin/1661/166140.png",
-      "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Lightborn_-_Striker.jpg/revision/latest/scale-to-width-down/250?cb\u003d20211202052026",
-      "URL": "https://github.com/Jeic06/backups/blob/main/Aamon%20backup.zip?raw\u003dtrue"
-    },
-    {
-      "name": "Alucard - Child of the Fall",
-      "skin_url": "https://www.mobilelegends.com/en/cdn/hero/skin/10002/100022.png",
-      "image_url": "https://www.mobilelegends.com/en/cdn/hero/skinpic/10002.jpg",
-      "github_url": "https://github.com/ml-id-heros/ml-id-heros/blob/main/Skins/Alucard-Child-of-the-Fall.md"
-    },
-    {
-      "name": "Alucard - Fiery Inferno",
-      "skin_url": "https://www.mobilelegends.com/en/cdn/hero/skin/10004/100042.png",
-      "image_url": "https://www.mobilelegends.com/en/cdn/hero/skinpic/10004.jpg",
-      "github_url": "https://github.com/ml-id-heros/ml-id-heros/blob/main/Skins/Alucard-Fiery-Inferno.md"
-    },
-    {
-      "name": "Alice - Divine Owl",
-      "skin_url": "https://www.mobilelegends.com/en/cdn/hero/skin/11414/114141.png",
-      "image_url": "https://www.mobilelegends.com/en/cdn/hero/skinpic/11414.jpg",
-      "github_url": "https://github.com/ml-id-heros/ml-id-heros/blob/main/Skins/Alice-Divine-Owl.md"
-    }
-  ]
+  {
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Duke_of_Shards.jpg/revision/latest/scale-to-width-down/250?cb=20220219033921",
+    "NAMA": "Aamon 1",
+    "URL": "https://github.com/Jeic06/backups/blob/main/Aamon%20backup.zip?raw=true"
+  },
+  {
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Night%27s_Edge.jpg/revision/latest/scale-to-width-down/250?cb=20211201153222",
+    "NAMA": "Aamon 2",
+    "URL": "https://github.com/Afornax/Assassin/blob/main/AamonBasic.zip?raw=true"
+  }
+]
